@@ -1,5 +1,7 @@
 # Russian Drift Servers (RDS) Project 🏎️💨
 
+<img src="https://sun9-75.userapi.com/impg/2eag5eVs6eBBjaOrKI_f6V07PrxbGos3_ULMpw/RnmBlcFFfmY.jpg?size=1920x768&quality=96&sign=be604dbfc4bd2df95bd7b2327b12d2e3&type=album" alt="Logo">
+
 **Russian Drift Servers (RDS)** is a drift server project for GTA, supported through the website [myrds.ru](http://myrds.ru). Since its inception, the project has launched **5** servers, and currently **2** servers are actively online with regular monitoring of player activity.
 
 ## About the Project 🏁
