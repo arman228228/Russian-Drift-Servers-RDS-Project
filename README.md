@@ -55,7 +55,7 @@ The servers are managed using:
     <a href="https://vk.com/dmdriftgta?w=wall-157787430_34047">
       <img src="https://sun9-60.userapi.com/impg/kvPzE7QQJ5_iDjoCPTeEJEoDHbEGYUQdeeYBrQ/oJm88X5X_sE.jpg?size=1920x1080&quality=96&sign=2f28270039e2e56e0bf01d073ae4d51d&type=album" alt="The project's largest contest">
     </a>
-    <figcaption>The project's largest contest</figcaption>
+    <figcaption>The project's largest giveaway</figcaption>
   </figure>
 
 </details>
